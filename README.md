@@ -12,6 +12,7 @@ practica2.3
 
 
 practica2.4
+![image](https://github.com/user-attachments/assets/aaf2056a-01b5-4b9b-9cb1-6ca97686bbf9)
 
 
 practica2.5:
