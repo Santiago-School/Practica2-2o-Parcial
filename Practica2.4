@@ -1,0 +1,21 @@
+print(" ")
+print("Francisco Santiago Carrasco Correa 0421 3°W 09/10/24")
+print(" ")
+# funcion para calcular el total de la factura con iva
+def totalconiva(siniva, porcentajeiva):
+    # calcular el monto de iva
+    iva = siniva * (porcentajeiva / 100)
+    # calcular el total sumando la cantidad sin iva y el iva
+    total = siniva + iva
+    return total
+
+# solicitar al usuario la cantidad sin iva
+siniva = float(input("ingrese la cantidad sin iva: "))
+# solicitar al usuario el porcentaje de iva
+porcentajeiva = float(input("ingrese el porcentaje de iva a aplicar: "))
+
+# calcular el total de la factura
+total = totalconiva(siniva, porcentajeiva)
+
+# mostrar el resultado
+print(f"el total de la factura con iva es: {total:.2f}")
