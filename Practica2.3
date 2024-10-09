@@ -1,3 +1,8 @@
+print(" ")
+print("Francisco Santiago Carrasco Correa 0421 3°W 08/10/24")
+print(" ")
+
+#esto hace la funcion para que el numero se escriba lo transforme en factorial
 def factorial(n):
     if n == 0 or n == 1:
         return 1
@@ -6,8 +11,10 @@ def factorial(n):
 
 numero = int(input("ingrese un numero entero positivo: "))
 
+#este es por si no da un numero entero
 if numero < 0:
     print("por favor ingrese un numero entero positivo")
+    #aqui se escribe y da el resultado del factorial
 else:
     resultado = factorial(numero)
     print(f"el factorial de {numero} es {resultado}")
