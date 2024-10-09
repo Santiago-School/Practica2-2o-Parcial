@@ -1,0 +1,13 @@
+def factorial(n):
+    if n == 0 or n == 1:
+        return 1
+    else:
+        return n * factorial(n - 1)
+
+numero = int(input("ingrese un numero entero positivo: "))
+
+if numero < 0:
+    print("por favor ingrese un numero entero positivo")
+else:
+    resultado = factorial(numero)
+    print(f"el factorial de {numero} es {resultado}")
