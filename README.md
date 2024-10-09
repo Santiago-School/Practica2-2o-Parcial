@@ -8,6 +8,7 @@ practica2.2:
 
 
 practica2.3
+![image](https://github.com/user-attachments/assets/d984dfe5-0997-4a74-81c2-56774ab11f04)
 
 
 practica2.4
