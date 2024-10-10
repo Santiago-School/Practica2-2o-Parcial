@@ -19,3 +19,4 @@ practica2.5:
 ![image](https://github.com/user-attachments/assets/bee47bac-3bd3-4daa-aaac-9b051b5bcb41)
 
 Practica2.6
+![image](https://github.com/user-attachments/assets/4490e95d-bec9-47ff-9c4b-c96586222d5b)
