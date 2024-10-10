@@ -25,3 +25,4 @@ Practica2.7
 ![image](https://github.com/user-attachments/assets/23ffc0e1-2ec8-4874-bff8-022e55507c47)
 
 Practica2.8
+![image](https://github.com/user-attachments/assets/5b20c060-4ed8-4802-a469-48a39ebcc816)
