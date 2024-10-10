@@ -1,22 +1,19 @@
 print(" ")
-print("Francisco Santiago Carrasco Correa 0421 3°W 08/10/24")
+print("Francisco Santiago Carrasco Correa 0421 3°W 09/10/24")
 print(" ")
 
-#se designan las variables y el return
-def areacirculo(radio):
-    pi = 3.141592653589793
-    return pi * radio ** 2
+#define el radio y la altura
+radio = 6
+altura = 12
 
-def volumencilindro(radio, altura):
-    area_base = areacirculo(radio)
-    return area_base * altura
+#se realiza la variable constante y los calculos
+pi = 3.141592653589793
+areacirculo = pi * radio ** 2
+volumencilindro = areacirculo * altura
 
-# ejemplo del uso
-radio = 5
-altura = 10
+#se utilizan los print para poner los valores obtenidos
+print("area del circulo:", areacirculo)
+print("volumen del cilindro:", volumencilindro)
 
-area = areacirculo(radio)
-volumen = volumencilindro(radio, altura)
-
-print("area del circulo:", area)
-print("volumen del cilindro:", volumen)
+#pdd: Segun yo el volumen de un circulo no es un termino correcto, 
+#ya que un circulo es una figura bidimensional y no tiene volumen y por ende no lo adjunte
